@@ -1,6 +1,8 @@
 body {
      background: black;
      color:white;
+     margin: 0px;
+     font-family: "Qwitcher+Grypen", sans-serif;
 }
  section {
       background-color: rgb(77, 29, 155)
@@ -11,10 +13,14 @@ body {
  }
 
 
- div {
-     margin-right: 20px;
- }
-
  .chamada-texto {
      margin-right: 20px;
  }
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px
+}
