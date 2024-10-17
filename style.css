@@ -4,8 +4,15 @@ body {
      margin: 0px;
      font-family: "Qwitcher+Grypen", sans-serif;
 }
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 288);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(42,122, 288);
+}
  section {
-      background-color: rgb(77, 29, 155)
+      background-color: rgb(28, 104, 38)
       padding-bottom: 80px;
       padding-top: 80px;
       display: flex;
